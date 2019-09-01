@@ -128,7 +128,7 @@ other useful tools:
 * [Data Science is different now](https://veekaybee.github.io/2019/02/13/data-science-is-different/)
 * [Oh shit, git!](https://ohshitgit.com/)
 * [All the Useless Windows 10 Features Microsoft Should Remove](https://www.howtogeek.com/437942/all-the-useless-windows-10-features-microsoft-should-remove/)
-* [Statistics Done Wrong](https://arxiv.org/pdf/1807.08416.pdf)
+* [Statistics Done Wrong](https://www.statisticsdonewrong.com/)
 
 ##### research
 
