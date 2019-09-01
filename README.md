@@ -144,7 +144,7 @@ other useful tools:
 
 * [jellymar](https://jellymar.io/)
 * [自由钢琴](https://www.autopiano.cn/)
-* [citybound](A work-in-progress, open-source, multi-player city simulation game)
+* [citybound](https://github.com/citybound/citybound)
 * [Teeworlds](https://github.com/teeworlds/teeworlds)
 * [loderunnerwebgame](http://loderunnerwebgame.com/game/)
 
